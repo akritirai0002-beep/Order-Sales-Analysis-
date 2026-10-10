@@ -1,8 +1,3 @@
-## 2. README for `Order-Sales-Analysis`
-
-Copy and paste this into the `Add a README` section of your **Order-Sales-Analysis** repository[cite: 7]:
-
-```markdown
 # 📦 Northwind Order & Sales Analysis Dashboard
 
 An end-to-end sales and order intelligence project built using the relational Northwind database schema. This analysis evaluates revenue trends, fulfillment timelines, product order volume, and freight dynamics.
